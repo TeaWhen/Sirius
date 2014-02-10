@@ -1,10 +1,13 @@
 PODS:
+  - EZAudio (0.0.3)
   - TestFlightSDK (2.2.1-beta)
 
 DEPENDENCIES:
+  - EZAudio
   - TestFlightSDK
 
 SPEC CHECKSUMS:
+  EZAudio: 8b2138f290208e030bc401fbf6d95eeaa6e205e0
   TestFlightSDK: 4249c2f70e621bcfbdebf019073169c8fe36be13
 
 COCOAPODS: 0.29.0
